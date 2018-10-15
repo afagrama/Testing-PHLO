@@ -2,3 +2,8 @@
 	path = afagrama/Testing-PHLO
 	url = git@github.com:afagrama/Testing-PHLO.git
 	branch = master
+
+[submodule "plivo/plivo-python"]
+	path = plivo/plivo-python
+	url = git@github.com:plivo/plivo-python.git
+	branch = alpha
